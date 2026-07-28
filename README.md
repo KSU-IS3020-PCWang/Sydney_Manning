@@ -2,11 +2,10 @@
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
-
+- Student name: Sydney Manning
+- GitHub username: sydmann4
+- Project title: SimpleTracking
+- Application purpose: The Student Grade Tracker helps college students keep track of assignments, calculate weighted grades, and monitor their progress throughout a course by storing and organizing grade information in an easy-to-use Python application.
 ## How to Run the Application
 
 Explain the required Python version, required files, and the exact steps for starting the application in PyCharm.

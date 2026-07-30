@@ -1,2 +1,9 @@
 id,assignment_name,category,points_earned,points_possible,status
 1,Quiz 1 update,Quizzes,19,20,Graded
+2,final project,IS 3020,250,300,graded
+4,Final exam,IS 2020,300,500,graded
+5,carbon cycle,Biology II,40,60,graded
+6,acct,Math,0,100,not graded
+7,Quiz 1,History,0,50,Not Grdaded
+8,Module 1 Assignment,Math,20,40,graded
+9,Updated assignment,Is 3020,95,100,graded
